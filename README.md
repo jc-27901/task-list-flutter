@@ -1,6 +1,6 @@
 # task_list
 
-A new Flutter application.
+This flutter app contains 7 different different task which is used in all application.
 
 ## Getting Started
 
